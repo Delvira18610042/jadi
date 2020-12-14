@@ -3,6 +3,7 @@ img { width:220px;
 }
 body {
   font-family: "Avenir Next";
+  background-color: #ffe4e1;
 }
 
 li {
@@ -43,8 +44,11 @@ li {
 }
 
 .contents {
-  margin-top: 100px;
   height: 700px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  
+  padding: 150px 80px
 }
 
 .section-title {
