@@ -3,6 +3,7 @@ img { width:220px;
 }
 body {
   font-family: "Avenir Next";
+  background-color: #ffe4e1;
 }
 
 li {
@@ -22,7 +23,7 @@ li {
 }
 
 .header-list li {
-  float: left;
+  float: right;
   padding: 33px 20px;
 }
 
@@ -39,12 +40,12 @@ li {
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #ffefd5;
 }
 
 .contents {
+  height: 500px;
   margin-top: 100px;
-  height: 700px;
 }
 
 .section-title {
@@ -68,21 +69,21 @@ li {
   padding-top: 100px;
 }
 
-/* Tambahkan CSS untuk tags <input> dan <textarea> */
+/* Add CSS for <input> and <textarea> tags */
 input, textarea {
-width: 400px;
-margin-top: 10px;
-margin-bottom: 30px;
-padding: 20px;
-font-size: 18px;
-border: 1px solid #dee7ec;
- }
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
 
-/* Tambahkan CSS untuk contact-submit */
+/* Add CSS for contact-submit */
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
-}
+} 
 
 .footer {
   background-color: #2f5167;
@@ -97,7 +98,7 @@ border: 1px solid #dee7ec;
 }
 
 .footer-list {
-  float: right;
+ float: right;
 }
 
 .footer-list li {
