@@ -3,7 +3,7 @@ img { width:220px;
 }
 body {
   font-family: "Avenir Next";
-  background-color:#f08080;
+  background-color:#ff0000;
 }
 
 li {
@@ -11,7 +11,7 @@ li {
 }
 
 .header {
-  background-color: #ff0000;
+  background-color: #f08080;
   color: #fff;
   height: 90px;
 }
